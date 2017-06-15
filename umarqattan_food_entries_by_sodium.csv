@@ -1,0 +1,61 @@
+"Index","Food Entry","Calories","Fat (g)","Carbohydrates (g)","Net Carbohydrate (g)","Protein (g)","Fiber (g)","Sodium (mg)","Frequency"
+1,"foxy flax net carb - flax seed, 4 tablespoon",180,16,2,2,8,12,0,1
+2,"Fresh & Easy - Raw Almonds, 56 gram",336,28,12,6,12,6,0,1
+3,"One-a-day - Men's Health Formula Multivitamin, 1 tablet",0,0,0,0,0,0,0,5
+4,"Creatine - Creatine Monohydrate, 1 teaspoon (5g)",0,0,0,0,0,0,0,5
+5,"Clean - Japanese Sweet Potato, 250 g",225,0,68,58,5,10,0,1
+6,"Nordic naturals - Fish Oil, 2 soft gels",18,2,0,0,0,0,0,5
+7,"Body Strong - Dhea 50mg, 1 Tablet",0,0,0,0,0,0,0,2
+8,"Stevia In the Raw - Stevia In the Raw, 2 tsp",0,0,0,0,0,0,0,1
+9,"Swisse - Glucosamine +, 1 tablet",0,0,0,0,0,0,0,5
+10,"Myprotein - Vitamin D3, 1 softgel",0,0,0,0,0,0,0,5
+11,"Ghiradelli - 100% Unsweetened Cocoa powder, 2 Tbl",40,3,6,2,2,4,0,1
+12,"Swanson Ultra - Alpha Lipoic Acid (300 Mg), 1 Capsule",0,0,0,0,0,0,0,2
+13,"Quaker - Oats - Quick 1-Minute, 0.25 cup",75,2,14,12,3,2,0,2
+14,"Beyond  Raw - Precision BCAA, 1 Packet",25,0,6,6,0,0,0,1
+15,"Bananas - Raw, 130 g",116,0,30,27,1,3,1,1
+16,"Generic - Apple, Raw With Skin 100 g (Usda Data), 250 g",130,0,35,29,1,6,3,4
+17,"Avocado - Avocado, 0.5 medium",117,11,6,1,1,5,5,4
+18,"Avocado - Avocado, 1 medium",234,21,12,2,3,10,10,1
+19,"Gnc - Calcium Gummy, 2 gummies",30,0,7,7,0,0,10,2
+20,"Kroger - Brussel Sprouts, 5 sprout (85g)",45,0,8,5,3,3,15,1
+21,"Kroger - Brussel Sprouts, 20 sprout (85g)",180,0,32,20,12,12,60,1
+22,"Kroger - California Style Vegetables, 0.5 container (3 cups ea.)",60,0,10,6,2,4,60,4
+23,"Egg - Egg, 1 large egg (50g)",70,5,0,0,6,0,70,2
+24,"Mrs Butterworth Syrup - Sugar Free Maple Syrup, 0.13 cup",10,0,4,4,0,0,80,1
+25,"Chicken Leg - Grilled With Skin, 5 ounce",167,9,0,0,20,0,86,1
+26,"Usda - Sweet Potato, 180 grams",155,0,36,31,3,5,99,1
+27,"Straw Propeller - PatriOats, 85 grams",250,5,37,32,9,5,106,1
+28,"Simple Truth - Roasted Almonds, 28 g",180,15,5,2,6,3,110,1
+29,"Usda - Sweet Potato, 210 grams",181,0,42,36,3,6,116,1
+30,"Kroger - California Style Vegetables, 1 container (3 cups ea.)",120,0,20,12,4,8,120,1
+31,"Simple Truth - Roasted Almonds, 33 g",212,18,6,2,7,4,130,2
+32,"Egg - Egg, 2 large egg (50g)",140,10,0,0,12,0,140,2
+33,"Bettylou's - Pb&j Bar, 2 oz",210,6,36,30,5,6,150,1
+34,"Crackers Saltine - Crackers, 5 crackers",65,2,11,11,2,0,153,2
+35,"Quest Bar (5 Net Carbs) - Strawberry Cheesecake, 1 bar (60g)",170,7,23,10,20,13,160,1
+36,"Usda - Sweet Potato, 312 grams",268,0,62,53,5,9,172,1
+37,"Egg Beaters - Original, 90 g",49,0,2,2,10,0,176,1
+38,"Kroger - California Style Vegetables, 1.5 container (3 cups ea.)",180,0,30,18,6,12,180,2
+39,"Atkins - Lift Protein Bar, 1 bar",200,4,24,8,21,16,190,1
+40,"Quaker - Banana & Maple Instant Oatmeal, 1 packet",160,3,32,29,4,3,200,2
+41,"Enlightened - Red Velvet Ice Cream (Net Carbs), 2 cup (70g)",280,8,20,0,24,20,200,1
+42,"Quest - Mint Chocolate Chunk, 1 bar",190,9,21,6,20,15,210,1
+43,"Quaker Oatmeal - Apple Cheddar Rosemary, 1 pack",150,2,29,26,4,3,210,1
+44,"Quaker - lemon ricotta pancake oatmeal, 1 packet",150,3,30,27,4,3,220,1
+45,"Quest Bar - Mocha Chocolate Chip, 60 grams",180,6,24,10,20,14,240,1
+46,"Musclepharm - Combat (Cookies and Cream), 2 scoop (34.9g)",280,3,10,8,50,2,300,1
+47,"Generic - Boiled Chicken Wing, 3 wing",243,16,0,0,22,0,339,1
+48,"Kroger - Chicken Breast Cutlets, 6 oz",165,5,0,0,33,0,345,1
+49,"Egg Beaters - Original, 180 g",98,0,4,4,20,0,352,1
+50,"Kroger - Chicken - Tenderloins (Frozen), 8 oz",180,1,0,0,42,0,360,1
+51,"Egg Beaters - Original, 200 g",109,0,4,4,22,0,391,1
+52,"Halo Top - Mint Chip (Correct), 1 container (256 grams ea.)",240,8,56,44,20,12,440,1
+53,"MHP - High Protein Vanilla Pudding, 1 can (250g)",190,5,8,8,30,0,460,1
+54,"Kroger - Chicken - Tenderloins (Frozen), 11 oz",248,1,0,0,58,0,495,1
+55,"Kirkland Signature - Chicken Breast, Boneless & Skinless (Frozen) (4 Protein), 10 oz (112g)",275,4,0,0,63,0,500,1
+56,"Kroger - Chicken - Tenderloins (Frozen), 12 oz",270,2,0,0,63,0,540,2
+57,"kroger - frozen chicken thighs, 10 ounces",350,23,0,0,40,0,550,1
+58,"Protein - Tilapia Fillets, Kroger, 8 oz (1 fillet)",220,4,0,0,42,0,720,2
+59,"Protein - Tilapia Fillets, Kroger, 10.3 oz (1 fillet)",283,5,0,0,54,0,927,1
+60,"Kroger - Chunky Light Tuna In Water - Tad , 8 oz",240,2,0,0,52,0,1120,3
